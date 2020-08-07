@@ -31,17 +31,23 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ### Day 1: August 07, 2020, Friday
 
-**Today's Progress**:
+**Today's Progress :**
 
 -   C++ - STL 
+-   Started Algorithms specialization Course 1 on Coursera
+-   Solved few basic c++ problems on hackerank and leetcode!
 
-**What I learned:**
+**What I learned :**
 
--   Vectors
+-   Vectors.
+-   Introduction to algorithms.
+-   Its better to take help from someone and do something, then not do anything all day.
 
-**Thoughts:**
+**Thoughts :**
 
--   GG, so far.
+-   Decent start i guess...
+-   Special thanks to my friend [Kuee](https://github.com/TheSherlockHomie) without whom i guess i would never have started!
+-   And last, to the reader. Keep watching me please. Any help to keep me on track would be really helpful.
 
 <!-- [Project Name](Link here) "hover Description") -->
 
