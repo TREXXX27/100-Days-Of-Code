@@ -35,7 +35,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -   C++ - STL 
 -   Started Algorithms specialization Course 1 on Coursera
--   Solved few basic c++ problems on hackerank and leetcode!
+-   Solved few basic c++ problems on Hackerank and Leetcode!
 
 **What I learned :**
 
@@ -50,5 +50,28 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   And last, to the reader. Keep watching me please. Any help to keep me on track would be really helpful.
 
 <!-- [Project Name](Link here) "hover Description") -->
+
+---
+
+### Day 2: August 08, 2020, Saturday
+
+**Today's Progress :**
+
+-   C++ - STL 
+-   Algorithms specialization Course 1 on Coursera
+-   C++ problems on HackeRank and LeetCode!
+-   Participated in [CP-1](https://leetcode.com/contest/biweekly-contest-32)
+
+**What I learned :**
+
+-   Multi dimensional vectors.
+-   Completed Introduction to algorithms.
+-   Simple hash_table usage while discussing [CP-1](https://leetcode.com/contest/biweekly-contest-32) problem 2. (Thanks [Kuee](https://github.com/TheSherlockHomie) !)
+
+**Thoughts :**
+
+-   Need to gear up...
+-   Lots and lots to learn, need to be patient.
+-   From now on will be numbering all my CP as done above.
 
 ---
