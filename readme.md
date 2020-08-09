@@ -75,3 +75,24 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   From now on will be numbering all my CP as done above.
 
 ---
+
+### Day 3: August 09, 2020, Sunday
+
+**Today's Progress :**
+
+-   Algorithms specialization Course 1 on Coursera.
+-   Visual studio setup for c++ programming.
+-   Participated in [CP-2](https://codeforces.com/contest/1391).
+
+**What I learned :**
+
+-   Asymptotic analysis of algorithms.
+-   Have to improve my CP skills.
+-   How to debug code on Visual Syudio.
+
+**Thoughts :**
+
+-   Need to learn new algorithms and data structures and practise questions on them soon.
+-   A bad day for CP....The questions were too tough for me.
+
+---
