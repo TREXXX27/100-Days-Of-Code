@@ -88,11 +88,35 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -   Asymptotic analysis of algorithms.
 -   Have to improve my CP skills.
--   How to debug code on Visual Syudio.
+-   How to debug code on Visual Studio.
 
 **Thoughts :**
 
 -   Need to learn new algorithms and data structures and practise questions on them soon.
 -   A bad day for CP....The questions were too tough for me.
+
+---
+
+### Day 4: August 10, 2020, Monday
+
+**Today's Progress :**
+
+-   Algorithms specialization Course 1 on Coursera.
+-   Solved problems on leetcode.
+
+**What I learned :**
+
+-   Algorithms course Week 1 problems and assignments done ans started Week 2!
+-   Learnt [Kadane's Algorithm](https://codeforces.com/blog/entry/13713)
+-   Solved [Two sum](https://leetcode.com/problems/two-sum/)
+-   Solved [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+-   Solved [Single Number](https://leetcode.com/problems/single-number/)
+-   Solved [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+
+**Thoughts :**
+
+-   Many more algorithms to learn!
+-   Better then yesterday...
+-   Data structures are damm interesting stuff!
 
 ---
