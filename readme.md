@@ -120,3 +120,22 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Data structures are damm interesting stuff!
 
 ---
+
+### Day 5: August 11, 2020, Tuesday
+
+**Today's Progress :**
+
+-   C++ - STL
+-   Solved probems on Hackerrank
+
+**What I learned :**
+
+-   STL - Maps and Unordered_maps.
+
+**Thoughts :**
+
+-   A slow day.
+-   Wish somebody could cure my migrain.
+-   Hope i will be able to solve atleast 1 problem in CP tomorrow.
+
+---
