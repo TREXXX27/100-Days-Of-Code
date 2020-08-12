@@ -139,3 +139,22 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Hope i will be able to solve atleast 1 problem in CP tomorrow.
 
 ---
+
+### Day 6: August 12, 2020, Wednesday
+
+**Today's Progress :**
+
+-   Solved probems on Leetcode and Hackerrank.
+
+**What I learned :**
+
+-   Solved [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/).
+-   Solved [Plus One](https://leetcode.com/problems/plus-one/).
+
+**Thoughts :**
+
+-   Today was [Kuee's](https://github.com/TheSherlockHomie) birthday ...Ashish ,Piyush ,Shivangi and I had prepared a surprise for him .🥳🥳🥳
+-   Had made a riddle for him to solve...A little bit related to coding..It was fun watching him solve!
+-   No comments on [CP-3](https://codeforces.com/contest/1395) 🤐😥
+
+---
