@@ -158,3 +158,24 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   No comments on [CP-3](https://codeforces.com/contest/1395) 🤐😥
 
 ---
+
+### Day 7: August 13, 2020, Thursday
+
+**Today's Progress :**
+
+-   Solved probems on Leetcode 
+-   Algorithms 
+
+**What I learned :**
+
+-   Solved [Happy Number](https://leetcode.com/problems/happy-number/).
+-   Solved [Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/).
+-   Solved [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+-   Learnt [Floyd Cycle Detection Algorithm](https://www.youtube.com/watch?time_continue=1&v=Aup0kOWoMVg&feature=emb_logo)
+
+**Thoughts :**
+
+-   A decent day..
+-   Floyd Cycle Detection Algorithm was interesting and surprisingly easy.
+
+---
