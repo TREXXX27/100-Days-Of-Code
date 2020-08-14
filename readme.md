@@ -179,3 +179,32 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Floyd Cycle Detection Algorithm was interesting and surprisingly easy.
 
 ---
+
+### Day 8: August 14, 2020, Saturday
+
+**Today's Progress :**
+
+-   [CP-4](https://codeforces.com/contest/1398)
+-   [CS-162 Operating Systems Lecture - 2](https://www.youtube.com/watch?v=iFBwI3ZMn3o&list=PLIMsSuI81pxq7c91oQMpmXgmGICbuDA_c&index=3&t=0s)
+
+**What I learned :**
+
+-  Four fundamental concepts of OS -
+    1. Thread.
+    2. Address Space.
+    3. Process.
+    4. Dual mode Operation - Kernel and User.
+-   Best way for making variable row-size 2-D vectors :
+
+        vector<vector<int>>vec;
+        vector<int>v = {1} ;
+        vec.push_back(v)
+        v.push_back(2);
+        vec.push_back(v);
+**Thoughts :**
+
+-   Was able to solve 1 problem successfully in [CP-4](https://codeforces.com/contest/1398).
+-   Would have solved 2nd problem too easily but getline function was not   working in my Visual Studio for some unknown reason.
+-   [Kuee](https://github.com/TheSherlockHomie) completed his 100 days of code today! Check [this](https://github.com/TheSherlockHomie/100DaysOfCode-log) out to know more of his really inspirational journey. 
+-   Thanks for helping so much and Kudos my [friend](https://github.com/TheSherlockHomie) 😊🥳🥳
+---
