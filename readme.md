@@ -180,7 +180,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 8: August 14, 2020, Saturday
+### Day 8: August 14, 2020, Friday
 
 **Today's Progress :**
 
@@ -207,4 +207,22 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Would have solved 2nd problem too easily but getline function was not   working in my Visual Studio for some unknown reason.
 -   [Kuee](https://github.com/TheSherlockHomie) completed his 100 days of code today! Check [this](https://github.com/TheSherlockHomie/100DaysOfCode-log) out to know more of his really inspirational journey. 
 -   Thanks for helping so much and Kudos my [friend](https://github.com/TheSherlockHomie) 😊🥳🥳
+
+---
+
+### Day 9: August 15, 2020, Saturday
+
+
+**Today's Progress :**
+
+-   Solved Problems on Hackerrank.
+
+**What I learned :**
+
+-   C++ STL - revised arrays and strings on C++
+
+**Thoughts :**
+
+-   GG so far..
+-   Revisions are equally important...
 ---
