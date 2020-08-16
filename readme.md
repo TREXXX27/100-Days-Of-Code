@@ -226,3 +226,21 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   GG so far..
 -   Revisions are equally important...
 ---
+
+### Day 10: August 16, 2020, Sunday
+
+
+**Today's Progress :**
+
+-   Participated in [CP-5](https://codeforces.com/contest/1392)
+
+**What I learned :**
+
+-   Use <climits> for INT_MAX and INT_MIN.
+
+**Thoughts :**
+
+-   Was able to solve 2 problems in CP-5. Ranked - 
+-   Wish i was able to solve the third one too... I thought i was using the right logic..but somehow it wasnt right totally...Will check it out again.
+
+---
