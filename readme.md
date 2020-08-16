@@ -240,7 +240,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--   Was able to solve 2 problems in CP-5. Ranked - 
+-   Was able to solve 2 problems in CP-5.
 -   Wish i was able to solve the third one too... I thought i was using the right logic..but somehow it wasnt right totally...Will check it out again.
 
 ---
