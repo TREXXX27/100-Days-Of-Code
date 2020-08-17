@@ -244,3 +244,21 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Wish i was able to solve the third one too... I thought i was using the right logic..but somehow it wasnt right totally...Will check it out again.
 
 ---
+
+### Day 11: August 17, 2020, Monday
+
+
+**Today's Progress :**
+
+-   Saw solutions of  questions in [CP-5](https://codeforces.com/contest/1392)
+
+**What I learned :**
+
+-   Easy ways of doing questions which i solved yesterday.
+
+**Thoughts :**
+
+-   Hope i am able to keep up, was barely able to code for 1 hour today!
+-   But yes i made it!!
+
+---
