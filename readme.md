@@ -262,3 +262,10 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   But yes i made it!!
 
 ---
+
+### August 18, 2020, Tuesday 
+
+-   My first day of not being able to code since i started this. Feeling really bad. I was having a strong urge to lie but i won't. 
+-   Stressfull days ... Hope these end soon.
+
+---
