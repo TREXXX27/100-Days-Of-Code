@@ -266,6 +266,28 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 ### August 18, 2020, Tuesday 
 
 -   My first day of not being able to code since i started this. Feeling really bad. I was having a strong urge to lie but i won't. 
--   Stressfull days ... Hope these end soon.
+-   Stressful days ... Hope these end soon.
+
+---
+
+### Day 11: August 17, 2020, Monday
+
+
+**Today's Progress :**
+
+-   Revised basics of Linked List.
+-   Solved problems on Leetcode.
+
+**What I learned :**
+
+-   Solved [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/).
+-   Solved [Group Anagrams](https://leetcode.com/problems/group-anagrams)
+-   Solved [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+-   unordered_maps are really useful. 
+
+**Thoughts :**
+
+-   Floyd Cycle Algorithm is something very helpful to get a low time complexity !
+-   Day 11 already?...Time is rolling so fast nowadays!! 
 
 ---
