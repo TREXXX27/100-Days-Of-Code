@@ -270,7 +270,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 11: August 17, 2020, Monday
+### Day 11: August 19, 2020, Monday
 
 
 **Today's Progress :**
@@ -289,5 +289,37 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -   Floyd Cycle Algorithm is something very helpful to get a low time complexity !
 -   Day 11 already?...Time is rolling so fast nowadays!! 
+
+---
+
+### Day 12: August 20, 2020, Tuesday
+
+
+**Today's Progress :**
+
+-   C++STL - stack
+-   Solved problems on Leetcode.
+
+**What I learned :**
+
+-   Solved [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/).
+-   Solved [Min Stack](https://leetcode.com/problems/min-stack/)
+-   Stack data structure already present in C++ lib -:  
+
+        stack <int> s1 ;
+-   Revised manual implementation of stack;
+-   Erase function in string -
+
+        str.erase();                                // Deletes all characters 
+        str.erase(1);                               // Deletes all characters except first one 
+        str.erase(1, 4);                            // Deletes 4 characters from index number 1
+        str.erase(str.begin() + 4);                 // Deletes character at position 4 
+        str.erase(str.begin() + 0, str.end() - 6);  // Deletes all characters between 0th index and str.end() - 6   
+
+**Thoughts :**
+
+-   Stacks were love , is love and always will be love.
+-   str.erase(1) would erase all characters after index 0 but str.erase(str.begin() + 1) would only delete character at index 1 . STRANGE! but useful! Need to understand more about iterators!
+-   Should i register for Microsoft ?? (yeah! oncampus visit) , I was able to clear only till 2nd round last year , Is it of any use? .....😶😶 
 
 ---
