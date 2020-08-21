@@ -323,3 +323,21 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Should i register for Microsoft ?? (yeah! oncampus visit) , I was able to clear only till 2nd round last year , Is it of any use? .....😶😶 
 
 ---
+
+### Day 13: August 21, 2020, Friday
+
+
+**Today's Progress :**
+
+-   Participated in [CP-6](https://codeforces.com/contest/1401)
+
+**What I learned :**
+
+-   __gcd(a,b) inbuilt function available in C++ 17.
+
+**Thoughts :**
+
+-   Was able to solve only 2 problems in [CP-6](https://codeforces.com/contest/1401) (same as CP -5).
+-   Wish i was able to solve the third one too... I thought i was using the right logic..but somehow it wasnt right totally...Will take help from [Kuee](https://github.com/TheSherlockHomie) !!
+
+---
