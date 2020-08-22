@@ -341,3 +341,23 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Wish i was able to solve the third one too... I thought i was using the right logic..but somehow it wasnt right totally...Will take help from [Kuee](https://github.com/TheSherlockHomie) !!
 
 ---
+
+### Day 14: August 22, 2020, Saturday
+
+
+**Today's Progress :**
+
+-   Participated in [CP-7](https://leetcode.com/contest/biweekly-contest-33)
+
+**What I learned :**
+
+-   string in c++ is basically vector...so use push_back function to insert new elements and other functions of vector data structure as needeed.
+
+-    unordered_set usage .   
+
+**Thoughts :**
+
+-   Was able to solve 2 problems in [CP-7](https://leetcode.com/contest/biweekly-contest-33).
+-   Used unordered_set for the first time in a code ! Hurray ! Really made my code so easy!
+-   Wish i was able to solve the third question in time too...was easy actually!
+---
