@@ -352,7 +352,6 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **What I learned :**
 
 -   string in c++ is basically vector...so use push_back function to insert new elements and other functions of vector data structure as needeed.
-
 -    unordered_set usage .   
 
 **Thoughts :**
@@ -360,4 +359,23 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Was able to solve 2 problems in [CP-7](https://leetcode.com/contest/biweekly-contest-33).
 -   Used unordered_set for the first time in a code ! Hurray ! Really made my code so easy!
 -   Wish i was able to solve the third question in time too...was easy actually!
+---
+
+### Day 15: August 23, 2020, Sunday
+
+
+**Today's Progress :**
+
+-   Participated in GOOGLE KICKSTART [CP-8](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47)
+
+**What I learned :**
+
+-    Watched solutions of Google Kickstart problems
+-    How to get all possible arrays of size k with elements (0-n).   
+
+**Thoughts :**
+
+-   Was able to solve 1.5 problems in GOOGLE KICKSTART [CP-8](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47).
+-   Used brute force to solve 2nd problem but got TLE in second test case as expected...
+-   Had fun!
 ---
