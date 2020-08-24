@@ -379,3 +379,31 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Used brute force to solve 2nd problem but got TLE in second test case as expected...
 -   Had fun!
 ---
+
+### Day 16: August 24, 2020, Monday
+
+
+**Today's Progress :**
+
+-   Graphs concept.
+
+**What I learned :**
+
+-    Basics of Graphs.
+-    Graph Terminology.
+-    Graph Representation -
+        1. Adjacency list.
+        2. Adjacency matrix.
+        3. Edge list.
+-    Graph Traversal - 
+        1. Depth-first search (DFS).
+        2. Breadth-first search (BFS).
+-    Applications.
+
+
+**Thoughts :**
+
+-   Thanks [Kuee](https://github.com/TheSherlockHomie) for helping me learn...
+-   Graphs were fun too..
+
+---
