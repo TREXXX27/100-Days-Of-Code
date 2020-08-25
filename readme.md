@@ -407,3 +407,21 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Graphs were fun too..
 
 ---
+
+### Day 17: August 25, 2020, Tuesday
+
+
+**Today's Progress :**
+
+-   Participated in [CP-9](https://codeforces.com/contest/1400)
+
+**What I learned :**
+
+-    unordered_set usage.
+-    Time Limit is very imp in CP.   
+
+**Thoughts :**
+
+-   Wish i could freeze time to learn all algorithms and data structures before next CP.
+-   Was only able to solve one problem in [CP-9](https://codeforces.com/contest/1400)
+---
