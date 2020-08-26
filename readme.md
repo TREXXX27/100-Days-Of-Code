@@ -428,18 +428,21 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ### Day 18: August 26, 2020, Wednesday
 
-
 **Today's Progress :**
 
--    Continuation of Graphs
+-    Graphs - Shortest Path Algorithms.
+-    Discussed solutions of [CP-9](https://codeforces.com/contest/1400) with [Kuee](https://github.com/TheSherlockHomie) .
 
 **What I learned :**
 
--    Graph Algorithms.
--    Discussed solutions of last CP.
+-    Graph Shortest Path Algorithms.
+        1. Bellman–Ford algorithm - O(nm).
+        2. Dijkstra’s algorithm - O(m + nlogn).
+        3. Floyd–Warshall algorithm - O(n^3)
+-    Using Greedy algorithm within a loop and comparing all the final answers can convert a wrong greedy answer to a right one!
 
 **Thoughts :**
 
--   Need to practise graph problems.
--   Pumped up!
+-   3 YEARS passed since I first thought of learning trees and graphs and finally i am NOW! Cheers to procastination !😑
+-   Pumped up !!!
 ---
