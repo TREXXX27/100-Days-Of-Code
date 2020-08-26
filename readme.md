@@ -425,3 +425,21 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Wish i could freeze time to learn all algorithms and data structures before next CP.
 -   Was only able to solve one problem in [CP-9](https://codeforces.com/contest/1400)
 ---
+
+### Day 18: August 26, 2020, Wednesday
+
+
+**Today's Progress :**
+
+-    Continuation of Graphs
+
+**What I learned :**
+
+-    Graph Algorithms.
+-    Discussed solutions of last CP.
+
+**Thoughts :**
+
+-   Need to practise graph problems.
+-   Pumped up!
+---
