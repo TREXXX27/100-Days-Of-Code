@@ -445,4 +445,21 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -   3 YEARS passed since I first thought of learning trees and graphs and finally i am NOW! Cheers to procastination !😑
 -   Pumped up !!!
+
+---
+### Day 19: August 27, 2020, Thursday
+
+**Today's Progress :**
+
+-    Revised Graphs.
+
+**What I learned :**
+
+-    Just a quick revision and tried writing code for dfs and bfs myself.
+
+**Thoughts :**
+
+-   Not much done today.
+-   Registering for GRE begins!
+
 ---
