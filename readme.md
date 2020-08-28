@@ -463,3 +463,21 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Registering for GRE begins!
 
 ---
+
+### Day 20: August 28, 2020, Friday
+
+**Today's Progress :**
+
+-    Participated in CP-10 (Newton's coding challenge August 2020)
+
+**What I learned :**
+
+-    Manhattan's distance.
+-    Read question properly in CP !!
+
+**Thoughts :**
+
+-   Achieved rank 349 in CP-10
+-   Time Complexity and Space Complexity ...Wish they never existed!!!
+
+---
