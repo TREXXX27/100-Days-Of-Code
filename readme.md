@@ -501,7 +501,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--   Achieved rank 5277 in [CP-11](https://atcoder.jp/contests/abc177).
+-   Was able to solve 3 questions in [CP-11](https://atcoder.jp/contests/abc177).
 -   Have to see Extended Euclidean algorithm and Fermat’s Little Theorem. 
 
 ---
