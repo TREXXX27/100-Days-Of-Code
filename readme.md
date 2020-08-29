@@ -477,7 +477,31 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--   Achieved rank 349 in CP-10
+-   Achieved rank 349 in CP-10.
 -   Time Complexity and Space Complexity ...Wish they never existed!!!
+
+---
+
+### Day 21: August 29, 2020, Saturday
+
+**Today's Progress :**
+
+-    Participated in [CP-11](https://atcoder.jp/contests/abc177)
+
+**What I learned :**
+
+-    Modulo 10^9+7 !!
+-    Modulo rules -
+
+        1. ( a + b) % c = ( ( a % c ) + ( b % c ) ) % c
+        2. ( a * b) % c = ( ( a % c ) * ( b % c ) ) % c
+        3. ( a – b) % c = ( ( a % c ) – ( b % c ) ) % c
+        4. ~~( a / b ) % c = ( ( a % c ) / ( b % c ) ) % c~~ 
+        
+
+**Thoughts :**
+
+-   Achieved rank 5277 in [CP-11](https://atcoder.jp/contests/abc177).
+-   Have to see Extended Euclidean algorithm and Fermat’s Little Theorem. 
 
 ---
