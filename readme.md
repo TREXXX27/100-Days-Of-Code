@@ -505,3 +505,20 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Have to see Extended Euclidean algorithm and Fermat’s Little Theorem. 
 
 ---
+
+### Day 22: August 30, 2020, Sunday
+
+**Today's Progress :**
+
+-    Participated in [CP-12](https://codeforces.com/contest/1397)
+
+**What I learned :**
+
+-    Greedy in loop can be used if you  are sure that the worst case time complexity wont cause TLE.
+
+**Thoughts :**
+
+-   Was able to solve only 1 question in [CP-12](https://codeforces.com/contest/1397).
+-   I should learn from my mistakes!!
+
+---
