@@ -522,3 +522,24 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   I should learn from my mistakes!!
 
 ---
+
+### Day 23: August 31, 2020, Monday
+
+**Today's Progress :**
+
+-    Trees
+-    Revised Graph Shortest Path Algorithms.
+
+**What I learned :**
+
+-    Tree Traversal.
+-    Diameter.
+-    All longest paths.
+-    Binary Trees.
+
+**Thoughts :**
+
+-   So much to do in so less time.
+-   Today finally [Kuee](https://github.com/TheSherlockHomie) pushed his 100th day log commit of his 100 days of code challenge !
+
+---
