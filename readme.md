@@ -562,6 +562,24 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -   A lot of practice pending.
 -   Studying with [Kuee](https://github.com/TheSherlockHomie) has helped me to explore so many new things.
--   Was able to solve one question in CP-13 , because I thought that the last question would be the most tough one as is always in CP. But it was not apparently. Wasted all time in solving the second one which I was not abke to eventually. 50 Lakhs gone ! (Yeah that's the CTC the company was offering!)
+-   Was able to solve one question in CP-13 , because I thought that the last question would be the most tough one as is always in CP. But it was not apparently. Wasted all time in solving the second one which I was not able to eventually. 50 Lakhs gone although it doesn't matter! (Yeah that's the CTC the company was offering!)
+
+---
+
+### Day 25: August 02, 2020, Wednesday
+
+**Today's Progress :**
+
+-    Trees
+
+**What I learned :**
+ 
+-    Binary Search Tree.
+-    AVL Trees.
+
+**Thoughts :**
+
+-   Need to implement and practice problems on the topics I have covered recently.
+-   Even after hours we ( [Kuee](https://github.com/TheSherlockHomie) and me ) were not able to understand Red-Black Trees ! 🥴
 
 ---
