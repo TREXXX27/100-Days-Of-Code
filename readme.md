@@ -543,3 +543,25 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Today finally [Kuee](https://github.com/TheSherlockHomie) pushed his 100th day log commit of his 100 days of code challenge !
 
 ---
+
+### Day 24: August 01, 2020, Tuesday
+
+**Today's Progress :**
+
+-    Dynamic Programming.
+-    CP-13 - Atlassian on campus placement first round.
+
+**What I learned :**
+
+-    Coin problem.
+-    Longest increasing subsequence.
+-    Knapsack problems.
+-    Levenshtein distance.
+
+**Thoughts :**
+
+-   A lot of practice pending.
+-   Studying with [Kuee](https://github.com/TheSherlockHomie) has helped me to explore so many new things.
+-   Was able to solve one question in CP-13 , because I thought that the last question would be the most tough one as is always in CP. But it was not apparently. Wasted all time in solving the second one which I was not abke to eventually. 50 Lakhs gone ! (Yeah that's the CTC the company was offering!)
+
+---
