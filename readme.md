@@ -583,3 +583,36 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Even after hours we ( [Kuee](https://github.com/TheSherlockHomie) and me ) were not able to understand Red-Black Trees ! 🥴
 
 ---
+
+### Day 26: August 03, 2020, Thursday
+
+**Today's Progress :**
+
+-    BitMasking.
+-    Virtual contest [CP-14](https://codeforces.com/group/9YguDGcHHN/contest/293527)
+
+**What I learned :**
+ 
+-    Basics of [BitMasking](https://codeforces.com/blog/entry/18169) .
+-    Theory of [Sieve of Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes/).
+-    Precision of floating point numbers (Include cmath library) -
+
+        - ceil() : Ceil rounds off the given value to the closest integer which is more than the given value.
+        - floor(): Floor rounds off the given value to the closest integer which is less than the given value.
+        - trunc(): Trunc removes digits after decimal point.
+        - round(): Round given number to the closest integer.
+        - setprecision(): Setprecision when used along with ‘fixed’ provides precision to floating point numbers correct to decimal numbers mentioned in the brackets of the setprecison.
+                
+                double pi = 3.14159; 
+                cout << fixed << setprecision(3) << pi <<endl;
+                cout << fixed << setprecision(6) << pi <<endl;
+                Output -
+                3.142
+                3.141590
+
+
+**Thoughts :**
+
+-   Was able to solve 2 questions in Virtual contest [CP-14](https://codeforces.com/group/9YguDGcHHN/contest/293527) prepared by [Kuee](https://github.com/TheSherlockHomie).
+-   [DP solution](https://codeforces.com/contest/189/submission/17217154) to the [Cut Ribbon](https://codeforces.com/problemset/problem/189/A) question was really nice! Need to practice DP more!
+- 26 days !!! Completed first quarter of the 100 days of code challenge ! Hurray 😎🤩🥳   
