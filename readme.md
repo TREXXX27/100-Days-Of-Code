@@ -616,3 +616,22 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Was able to solve 2 questions in Virtual contest [CP-14](https://codeforces.com/group/9YguDGcHHN/contest/293527) prepared by [Kuee](https://github.com/TheSherlockHomie).
 -   [DP solution](https://codeforces.com/contest/189/submission/17217154) to the [Cut Ribbon](https://codeforces.com/problemset/problem/189/A) question was really nice! Need to practice DP more!
 - 26 days !!! Completed first quarter of the 100 days of code challenge ! Hurray 😎🤩🥳   
+
+---
+
+### Day 27: August 04, 2020, Friday
+
+**Today's Progress :**
+
+-    Participated in [CP-15](https://codeforces.com/contest/1409).
+
+**What I learned :**
+ 
+-    Don't get stuck on a problem !
+-    KISS - Keep it simple Stupid! 
+
+**Thoughts :**
+
+-   A bad day !
+-   Was able to solve only 2 questions in [CP-15](https://codeforces.com/contest/1409) inspite of it beind Div 3.
+-   This contest really demotivated me ! Is this all worth it?
