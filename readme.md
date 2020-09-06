@@ -635,3 +635,28 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   A bad day !
 -   Was able to solve only 2 questions in [CP-15](https://codeforces.com/contest/1409) inspite of it beind Div 3.
 -   This contest really demotivated me ! Is this all worth it?
+
+---
+
+### Day 28: August 05, 2020, Saturday
+
+**Today's Progress :**
+
+-    Participated in [CP-16](https://leetcode.com/contest/biweekly-contest-34).
+-    Practised problems on DP.
+
+**What I learned :**
+ 
+-    How to solve problems using DP.
+-    Solved [Cut Ribbon](https://codeforces.com/problemset/problem/189/A).
+-    Solved [T-primes](https://codeforces.com/problemset/problem/230/B).
+-    Solved [Boredom](https://codeforces.com/problemset/problem/455/A).
+-    Solved [Given Length and Sum of Digits...](https://codeforces.com/problemset/problem/489/C).
+
+**Thoughts :**
+
+-   A great day !
+-   Was able to solve again only 2 questions in [CP-16](https://leetcode.com/contest/biweekly-contest-34).
+-   A big big big big THANK YOU to [Kuee](https://github.com/TheSherlockHomie). 
+
+---
