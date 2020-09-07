@@ -660,3 +660,22 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   A big big big big THANK YOU to [Kuee](https://github.com/TheSherlockHomie). 
 
 ---
+
+### Day 29: August 06, 2020, Saturday
+
+**Today's Progress :**
+
+-    Participated in [CP-17](https://codeforces.com/contest/1405).
+
+**What I learned :**
+ 
+-    Saw tutorial for [CP-17](https://codeforces.com/contest/1405).
+-    Don't forget to check syntax of output!!!
+-    Solved [BerSU Ball](https://codeforces.com/problemset/problem/489/B).
+
+**Thoughts :**
+
+-    Two questions only yet again !! 
+
+---
+
