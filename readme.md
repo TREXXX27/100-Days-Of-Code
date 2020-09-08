@@ -544,7 +544,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 24: August 01, 2020, Tuesday
+### Day 24: September 01, 2020, Tuesday
 
 **Today's Progress :**
 
@@ -566,7 +566,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 25: August 02, 2020, Wednesday
+### Day 25: September 02, 2020, Wednesday
 
 **Today's Progress :**
 
@@ -584,7 +584,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 26: August 03, 2020, Thursday
+### Day 26: September 03, 2020, Thursday
 
 **Today's Progress :**
 
@@ -619,7 +619,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 27: August 04, 2020, Friday
+### Day 27: September 04, 2020, Friday
 
 **Today's Progress :**
 
@@ -638,7 +638,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 28: August 05, 2020, Saturday
+### Day 28: September 05, 2020, Saturday
 
 **Today's Progress :**
 
@@ -661,7 +661,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 29: August 06, 2020, Saturday
+### Day 29: September 06, 2020, Sunday
 
 **Today's Progress :**
 
@@ -678,4 +678,27 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    Two questions only yet again !! 
 
 ---
+
+### Day 30: September 07, 2020, Monday
+
+**Today's Progress :**
+
+-    Practised problems on DP and binary search.
+
+**What I learned :**
+ 
+-    Solved [Flipping Game](https://codeforces.com/problemset/problem/327/A).
+-    Solved [Worms](https://codeforces.com/problemset/problem/474/B).
+-    Solved [Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C).
+-    Solved [K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C).
+-    Revised  [Cut Ribbon](https://codeforces.com/problemset/problem/189/A), [T-primes](https://codeforces.com/problemset/problem/230/B), [Boredom](https://codeforces.com/problemset/problem/455/A), [Given Length and Sum of Digits...](https://codeforces.com/problemset/problem/489/C) and [BerSU Ball](https://codeforces.com/problemset/problem/489/B)
+
+
+**Thoughts :**
+
+-    More practice required to come up with DP solution.
+-    Kth number not divisible by n can be simple found out using by k + ((k−1)/(n−1)).
+-    30 DAYS completed!!!!! 
+---
+
 
