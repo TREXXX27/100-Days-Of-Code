@@ -701,4 +701,28 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    30 DAYS completed!!!!! 
 ---
 
+### Day 31: September 08, 2020, Tuesday
+
+**Today's Progress :**
+
+-    Participated in [CP-18](https://codeforces.com/contest/1407).
+
+**What I learned :**
+ 
+-    GCD calculation using modulo operator is more efficient then using Euclidean Algorithm .
+
+                int gcd(int a, int b) 
+                { 
+                     if (b == 0) 
+                         return a; 
+                     return gcd(b, a % b);  
+                }
+
+**Thoughts :**
+
+-    Was able to solve only two questions again although as the questions were difficult was able to get a rank of 4917 out of approx 22k participants.
+-    Need to begin studying operating systems back again.
+
+---
+
 
