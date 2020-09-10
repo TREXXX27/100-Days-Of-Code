@@ -746,4 +746,10 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### September 10, 2020, Thursday
 
+-   Not feeling good .
+-   Taking a break from my 100 days of code challenge.
+-   Will surely continue it again from tomorrow .
+
+---
