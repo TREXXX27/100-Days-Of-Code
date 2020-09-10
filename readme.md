@@ -725,4 +725,25 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 32: September 09, 2020, Wednesday
+
+**Today's Progress :**
+
+-   Introduction to Operating Systems
+
+**What I learned :**
+ 
+-   Architecture of OS.
+-   OS vs Kernel.
+-   Functions of OS.
+-   System Calls.
+-   Interrupts.
+
+**Thoughts :**
+
+-   Have to complete OS before 14th September so that i can atleast ans questions of it in interview. 
+-   Have to study sorting algorithms asap.
+
+---
+
 
