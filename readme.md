@@ -771,6 +771,25 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--   Will I be able to upgrade to Pupil in Codeforces after [CP-18](https://codeforces.com/contest/1406) ?
+-   Will I be able to upgrade to Pupil in Codeforces after [CP-19](https://codeforces.com/contest/1406) ?
+
+---
+
+### Day 34: September 12, 2020, Saturday
+
+**Today's Progress :**
+
+-    Participated in [CP-19](https://codeforces.com/contest/1406).
+
+**What I learned :**
+ 
+-    max() function in C++ works only for 2 variables. For more then 2 variables we can use this way - 
+
+                max(max(a,b),c);
+
+**Thoughts :**
+
+-    Was not able to upgrade my rating to Pupil as there was a power cut during the contest and i was able to submit 2 questions somehow in the last 25 - 30 minutes.
+-    Congrats [Kuee](https://github.com/TheSherlockHomie) for upgrading to Pupil. 🥳
 
 ---
