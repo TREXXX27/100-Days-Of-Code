@@ -753,3 +753,24 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Will surely continue it again from tomorrow .
 
 ---
+
+### Day 33: September 11, 2020, Friday
+
+**Today's Progress :**
+
+-   Operating Systems.
+
+**What I learned :**
+ 
+-   Revised Fundamental Concepts of OS -
+
+        -   Thread : Execution Content.
+        -   Address Space.
+        -   Process : an instance of program running.
+        -   Dual mode operation - Kernel/System mode And User mode.
+
+**Thoughts :**
+
+-   Will I be able to upgrade to Pupil in Codeforces after [CP-18]https://codeforces.com/contest/1406) ?
+
+---
