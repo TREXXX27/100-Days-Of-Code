@@ -771,6 +771,6 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--   Will I be able to upgrade to Pupil in Codeforces after [CP-18]https://codeforces.com/contest/1406) ?
+-   Will I be able to upgrade to Pupil in Codeforces after [CP-18](https://codeforces.com/contest/1406) ?
 
 ---
