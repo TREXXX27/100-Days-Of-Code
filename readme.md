@@ -793,3 +793,29 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    Congrats [Kuee](https://github.com/TheSherlockHomie) for upgrading to Pupil. 🥳
 
 ---
+
+### Day 35: September 13, 2020, Sunday
+
+**Today's Progress :**
+
+-    C++ STL theory from [here](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
+**What I learned :**
+ 
+-    Priority Queue Introduction.
+-    Priority Queue Min Heaps and Max Heaps.
+-    Priority Queue Inserting Elements.
+-    Priority Queue Removing Elements.
+-    Priority Queue Code.
+-    Hash table hash function.
+-    Hash table separate chaining.
+-    Hash table separate chaining source code.
+-    Hash table open addressing.
+-    Hash table linear probing.
+
+**Thoughts :**
+
+-    Need to revise and implement all data stuctures one day again.
+-    Priority Queue was way easy then I thought it would be , on the other habd Hash tables are more complicated then I thought it would be but everything is more easier then Red Black Trees!
+
+---
