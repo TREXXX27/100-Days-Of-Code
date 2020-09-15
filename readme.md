@@ -833,8 +833,29 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--    Priority Queue was way easy then I thought it would be , on the other hand Hash tables are more complicated then I thought it would be but everything is more easier then Red Black Trees !
+-    Priority Queue was way easy then I thought it would be , on the other hand Hash tables are more complicated then I thought itwould be but everything is more easier then Red Black Trees !
 -    Solved 2 questions (1st and 3rd!!) and would have easily solved 2nd one too but due to wrong test cases and other disturbances the contest was declared unrated. And hence am still a newbie.....
 -    Waiting for next round ... 4 days to go.
+
+---
+
+### Day 37: September 15, 2020, Tuesday
+
+**Today's Progress :**
+
+-   Operationg systems
+
+**What I learned :**
+ 
+-    Program vs process.
+-    Process control block.
+-    Process States.
+-    Process creation through fork().
+-    Editorial of [CP-20](https://codeforces.com/contest/1418).
+
+**Thoughts :**
+
+-    Lots of interviews coming up soon!
+-    Think i should learn Operating systems from another source.
 
 ---
