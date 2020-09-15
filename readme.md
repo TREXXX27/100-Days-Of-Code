@@ -859,3 +859,28 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    Think i should learn Operating systems from another source.
 
 ---
+
+### Day 38: September 16, 2020, Wednesday
+
+**Today's Progress :**
+
+-    C++ STL theory from [here](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
+**What I learned :**
+ 
+-    Hash table quadratic probing.
+-    Hash table double hashing.
+-    Hash table open addressing removing.
+-    Hash table open addressing code.
+-    Union Find Introduction.
+-    Union Find Kruskal's Algorithm.
+-    Union Find - Union and Find Operations.
+-    Union Find Path Compression.
+
+
+**Thoughts :**
+
+-    Lots of DS learnt.. REVISION required.
+-    Implementation of these DS to be done as soon as possible.
+
+---
