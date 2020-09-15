@@ -786,6 +786,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    max() function in C++ works only for 2 variables. For more then 2 variables we can use this way - 
 
                 max(max(a,b),c);
+-    Saw editorial of [CP-19](https://codeforces.com/contest/1406) and discussed the same with [Kuee](https://github.com/TheSherlockHomie).
 
 **Thoughts :**
 
@@ -807,15 +808,33 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    Priority Queue Inserting Elements.
 -    Priority Queue Removing Elements.
 -    Priority Queue Code.
+
+**Thoughts :**
+
+-    Need to revise and implement all data stuctures one day again.
+
+---
+
+### Day 36: September 14, 2020, Monday
+
+**Today's Progress :**
+
+-    Participated in [CP-20](https://codeforces.com/contest/1418).
+-    C++ STL theory from [here](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
+**What I learned :**
+ 
 -    Hash table hash function.
 -    Hash table separate chaining.
 -    Hash table separate chaining source code.
 -    Hash table open addressing.
 -    Hash table linear probing.
 
+
 **Thoughts :**
 
--    Need to revise and implement all data stuctures one day again.
--    Priority Queue was way easy then I thought it would be , on the other habd Hash tables are more complicated then I thought it would be but everything is more easier then Red Black Trees!
+-    Priority Queue was way easy then I thought it would be , on the other hand Hash tables are more complicated then I thought it would be but everything is more easier then Red Black Trees !
+-    Solved 2 questions (1st and 3rd!!) and would have easily solved 2nd one too but due to wrong test cases and other disturbances the contest was declared unrated. And hence am still a newbie.....
+-    Waiting for next round ... 4 days to go.
 
 ---
