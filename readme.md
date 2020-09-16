@@ -833,7 +833,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--    Priority Queue was way easy then I thought it would be , on the other hand Hash tables are more complicated then I thought itwould be but everything is more easier then Red Black Trees !
+-    Priority Queue was way easy then I thought it would be , on the other hand Hash tables are more complicated then I thought it would be but everything is more easier then Red Black Trees !
 -    Solved 2 questions (1st and 3rd!!) and would have easily solved 2nd one too but due to wrong test cases and other disturbances the contest was declared unrated. And hence am still a newbie.....
 -    Waiting for next round ... 4 days to go.
 
@@ -880,7 +880,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--    Lots of DS learnt.. REVISION required.
+-    Lots of DS learnt.. LOTS OF REVISION required.
 -    Implementation of these DS to be done as soon as possible.
 
 ---
