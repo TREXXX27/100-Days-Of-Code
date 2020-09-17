@@ -884,3 +884,11 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    Implementation of these DS to be done as soon as possible.
 
 ---
+
+### September 17, 2020, Thursday
+
+-   Fever and body pain...
+-   Was not able to do anything.
+-   Maybe i should see a doctor.
+
+---
