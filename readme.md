@@ -892,3 +892,16 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Maybe i should see a doctor.
 
 ---
+
+### Day 39: September 18, 2020, Friday
+
+**Today's Progress :**
+
+-    Sat for Wellsfargo placement 1st round (Coding).
+
+**Thoughts :**
+
+-    Still not feeling good.
+-    Was not able to clear the coding round itself..
+
+---
