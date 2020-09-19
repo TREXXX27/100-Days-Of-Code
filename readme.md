@@ -897,11 +897,29 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Today's Progress :**
 
--    Sat for Wellsfargo placement 1st round (Coding).
+-    CP-21 Wellsfargo placement 1st round (Coding).
 
 **Thoughts :**
 
 -    Still not feeling good.
 -    Was not able to clear the coding round itself..
+
+---
+
+### Day 40: September 19, 2020, Saturday
+
+**Today's Progress :**
+
+-    Participated in [CP-22](https://codeforces.com/contest/1419).
+
+**What I learned :**
+
+-    Solved question using memoization in the contest...kindof DP.
+
+**Thoughts :**
+
+-    Feeling a bit sick even today
+-    Got upgraded to pupil!!! Rating being exact 1200. 🥳
+-    Could have solved two more questions easily!
 
 ---
