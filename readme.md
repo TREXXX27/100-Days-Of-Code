@@ -923,3 +923,23 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    Could have solved two more questions easily!
 
 ---
+
+### Day 41: September 20, 2020, Sunday
+
+**Today's Progress :**
+
+-    Sat for CP-23 Commvault placement first round.
+-    Sat for CP-24 Amazon placement first round.
+
+**What I learned :**
+
+-    Tree S is a subtree of tree T if both inorder and preorder/postorder traversals of S are substrings of inorder and preorder/postorder traversals of T respectively.
+
+**Thoughts :**
+
+-    Fever persisting even today.
+-    Amazon coding round wents really well with all questions correct except one coding question in which only 2 test cases where not getting correct answer.
+-    But still was not selected for the second round.
+
+---
+
