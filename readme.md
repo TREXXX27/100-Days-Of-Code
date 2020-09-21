@@ -943,3 +943,16 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 42: September 21, 2020, Monday
+
+**Today's Progress :**
+
+-    Sat for CP-25 Walmart placement first round.
+
+**Thoughts :**
+
+-    Was able to solve the coding question but was still not selected as i was not able to do the simple MCQs because of no time.
+-    [Kuee](https://github.com/TheSherlockHomie) got selected in the second round... Hope he cracks the interviews ...will be studying DBMS with him today ! Lots to study in very little time!
+
+---
+
