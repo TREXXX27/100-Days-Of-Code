@@ -956,3 +956,20 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 43: September 22, 2020, Tuesday
+
+**Today's Progress :**
+
+-    DBMS and SQL crash course.
+
+**What I learned :**
+
+-    From basics of DBMS to concepts of Normalization and dependencies and joins... a LOT!!!!
+-    Basics of SQL . 
+
+**Thoughts :**
+
+-    [Kuee](https://github.com/TheSherlockHomie) has successfully cleared the 2 toughest rounds i.e the technical rounds ...just the managerial and HR round is left. Hope he gets selected! Then party!!!
+
+---
+
