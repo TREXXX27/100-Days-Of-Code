@@ -973,3 +973,30 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 44: September 23, 2020, Wednesday
+
+**Today's Progress :**
+
+-    Infineon first round online test.
+-    Delloite first round apti test.
+
+**What I learned :**
+
+-    Revised pointers to array.
+
+                   arr     - points to 0th 1-D array.
+                  *arr     - points to 0th element of 1-D array.
+                 (arr+i)   - points to ith 1-D array.
+                *(arr+i)   - points to 0th element of ith 1-D array.
+               *(arr+i)+j  - points to jth element of ith 1-D array.
+             *(*(arr+i)+j) - represents the value of jth element of ith 1-D array.
+
+
+**Thoughts :**
+
+-    Congrats [Kuee](https://github.com/TheSherlockHomie) .Cracked into WALMART . You totally deserved it bro! ITS PARTY TIME NOW!!🎉🎉🎉
+-    Should i be really sitting for companies like axella and delloite? Hmmmmmm...
+
+---
+
+        
