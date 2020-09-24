@@ -999,7 +999,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 45: September 24, 2020, Wednesday
+### Day 45: September 24, 2020, Thursday
 
 **Today's Progress :**
 
@@ -1017,6 +1017,28 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    Need to do lots and lots of coding and learn new concepts......
 
 ---
+
+### Day 45: September 25, 2020, Friday
+
+**Today's Progress :**
+
+-    Operating Systems CS162 course
+
+**What I learned :**
+
+-    Processes
+-    Forks
+-    System calls.
+
+**Thoughts :**
+
+-    Learning new concepts in OS. Learning OS is really easy and fun.
+-    Making up my mind to be patient and keep hope .Will be dropping out myself from Delloite and Axella procedure in the second round myself. Aiming only for SDE roles...
+
+---
+
+
+
 
 
 
