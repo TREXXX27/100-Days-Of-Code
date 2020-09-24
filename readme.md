@@ -1018,7 +1018,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 45: September 25, 2020, Friday
+### Day 46: September 25, 2020, Friday
 
 **Today's Progress :**
 
