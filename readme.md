@@ -999,4 +999,24 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-        
+### Day 45: September 24, 2020, Wednesday
+
+**Today's Progress :**
+
+-    Infineon second round interviews.
+-    Axella first round apti test.
+
+**What I learned :**
+
+-    Tries are used for dictionary related problems.
+
+**Thoughts :**
+
+-    Really bad interview process of Infineon.
+-    Was asked a coding questions to find all anagrams of a word using TRIE, which i could not answer.
+-    Need to do lots and lots of coding and learn new concepts......
+
+---
+
+
+
