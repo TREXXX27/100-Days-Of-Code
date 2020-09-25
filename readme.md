@@ -1013,7 +1013,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts :**
 
 -    Really bad interview process of Infineon.
--    Was asked a coding questions to find all anagrams of a word using TRIE, which i could not answer.
+-    Was asked a coding questions to find all anagrams of a word using TRIE data structure, which i could not answer.
 -    Need to do lots and lots of coding and learn new concepts......
 
 ---
@@ -1036,6 +1036,8 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    Making up my mind to be patient and keep hope .Will be dropping out myself from Delloite and Axella procedure in the second round myself. Aiming only for SDE roles...
 
 ---
+
+
 
 
 
