@@ -1037,6 +1037,23 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 47: September 26, 2020, Saturday
+
+**Today's Progress :**
+
+-    C++ STL revisiom
+
+**What I learned :**
+
+-    Revised Hasp maps and Binary Heaps.
+
+**Thoughts :**
+
+-    Really Hope Sneha gets selected in Delloite.
+-    Why do companies take so much time in announcing results!!!🙄
+
+---
+
 
 
 
