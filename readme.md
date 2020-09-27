@@ -977,7 +977,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Today's Progress :**
 
--    Infineon first round online test.
+-    CP-26 Infineon first round online test.
 -    Delloite first round apti test.
 
 **What I learned :**
@@ -1051,6 +1051,20 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -    Really Hope Sneha gets selected in Delloite.
 -    Why do companies take so much time in announcing results!!!🙄
+
+---
+
+### Day 48: September 27, 2020, Sunday
+
+**Today's Progress :**
+
+-    [CP-27 Google Kickstart Round F](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48).
+-    [CP-28 Codeforces Round #673 (Div. 2)](https://codeforces.com/contest/1417)
+
+**Thoughts :**
+
+-    Secured 1354 rank in [CP-27 Google Kickstart Round F](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48). YEAH!!
+-    Rating increased in codeforces by just 20 .....Myrating changes has been so slow....If not a steep rise , all I wish is that it doesn't fall either..
 
 ---
 
