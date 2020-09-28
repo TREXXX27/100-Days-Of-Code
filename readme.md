@@ -1041,11 +1041,11 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Today's Progress :**
 
--    C++ STL revisiom
+-    C++ STL revision.
 
 **What I learned :**
 
--    Revised Hasp maps and Binary Heaps.
+-    Revised Hash maps and Binary Heaps.
 
 **Thoughts :**
 
@@ -1065,6 +1065,26 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -    Secured 1354 rank in [CP-27 Google Kickstart Round F](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff48). YEAH!!
 -    Rating increased in codeforces by just 20 .....Myrating changes has been so slow....If not a steep rise , all I wish is that it doesn't fall either..
+
+---
+
+### Day 49: September 28, 2020, Monday
+
+**Today's Progress :**
+
+-    Operating Systems CS-162 course
+
+**What I learned :**
+
+-    Processes.
+-    Threads.
+-    Multiplexing.
+-    Concurrency.
+
+**Thoughts :**
+
+-    Ashish, Sneha and i have got selected for Dellote next round!
+-    Will surely get myself out in the first round itself...Hope Sneha and Ashish are able to crack this! 
 
 ---
 
