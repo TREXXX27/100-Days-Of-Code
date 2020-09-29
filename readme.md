@@ -1088,6 +1088,26 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 50: September 29, 2020, Tuesday
+
+**Today's Progress :**
+
+-    Operating Systems CS-162 course
+
+**What I learned :**
+
+-    Concurrency.
+-    Mutual Exclusion.
+
+**Thoughts :**
+
+-    50th Day .....still a really bad day.
+-    Both Sneha and Ashish didn't get selected for Delloite..i really wished they did....No worries ! I believe in them!
+-    Sneha made it to the final round ...everything went well and she had a real good final interview but....Hope i was with her today.... She really deseved this atleast..😢😢
+
+---
+
+
 
 
 
