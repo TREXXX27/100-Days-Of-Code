@@ -1129,16 +1129,16 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Today's Progress :**
 
 -    Operating Systems CS-162 course
+-    Starting Hacktobefest 2020!!
 
 **What I learned :**
 
--    Semaphores
--    Monitors.
+-    Introduction to Sockets and Networking.
 
 **Thoughts :**
 
--    Seems i should shift my GRE exam date...no prep yet for the exam done...Hope its not that costly.
 -    Wish i could meet my friends ...its really depressing here.
+-    Would be making the most out of this Hacktoberfest !
 
 ---
 
