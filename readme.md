@@ -1124,6 +1124,26 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 52: October 1, 2020, Thursday
+
+**Today's Progress :**
+
+-    Operating Systems CS-162 course
+
+**What I learned :**
+
+-    Semaphores
+-    Monitors.
+
+**Thoughts :**
+
+-    Seems i should shift my GRE exam date...no prep yet for the exam done...Hope its not that costly.
+-    Wish i could meet my friends ...its really depressing here.
+
+---
+
+
+
 
 
 
