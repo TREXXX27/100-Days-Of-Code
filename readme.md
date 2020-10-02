@@ -615,7 +615,8 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -   Was able to solve 2 questions in Virtual contest [CP-14](https://codeforces.com/group/9YguDGcHHN/contest/293527) prepared by [Kuee](https://github.com/TheSherlockHomie).
 -   [DP solution](https://codeforces.com/contest/189/submission/17217154) to the [Cut Ribbon](https://codeforces.com/problemset/problem/189/A) question was really nice! Need to practice DP more!
-- 26 days !!! Completed first quarter of the 100 days of code challenge ! Hurray 😎🤩🥳   
+- 26 days !!! Completed first quarter of the 100 days of code challenge ! Hurray 😎🤩🥳
+- 3rd is a really special day for me .... 29 MONTHS! 😍   
 
 ---
 
@@ -1141,6 +1142,26 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    Would be making the most out of this Hacktoberfest !
 
 ---
+
+### Day 53: October 2, 2020, Friday
+
+**Today's Progress :**
+
+-    CP-29 C2FO first coding round.
+-    C++ STL
+
+**What I learned :**
+
+-    Revised Heaps.
+
+**Thoughts :**
+
+-    Will try to complete Hacktoberfest to-do's by tomorrow...can't afford to miss such a sexy shirt.
+-    C2FO's test was really difficult... Its really getting difficult..Need to stay strong somehow.
+
+---
+
+
 
 
 
