@@ -1161,6 +1161,26 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 54: October 3, 2020, Saturday
+
+**Today's Progress :**
+
+-    Operating Systems CS-162 course
+-    Hacktobefest 2020!!
+
+**What I learned :**
+
+-    Added Heaps Project in [Kuee](https://github.com/TheSherlockHomie) Data Stuctures Repository.
+
+**Thoughts :**
+
+-    30 months !!! Wish we meet soon .. 💕
+-    Implementing Heaps is fun! 
+
+---
+
+
+
 
 
 
