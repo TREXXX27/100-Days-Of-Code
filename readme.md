@@ -1194,6 +1194,28 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    30 months !!! Wish we meet soon .. 💕
 -    Implementing Heaps is fun! 
 
+---
+
+### Day 56: October 5, 2020, Monday
+
+**Today's Progress :**
+
+-    Hacktobefest 2020!!
+-    Converted Bheap implementation to a includable header file..
+-    Templatized Bheap.
+-    Added Exception Handling.
+
+**What I learned :**
+
+-    Templates.
+-    Exception Handling.
+
+**Thoughts :**
+
+-    MY FIRST C++ PROJECT! Thanks [Kuee](https://github.com/TheSherlockHomie)! for guiding me and helping so much!
+-    It gets real frustrating sometimes how much overhead [Kuee](https://github.com/TheSherlockHomie) demanded before he merged my branch with his master branch.... but i got to learn so many new things! Really happy!! Nothing good comes for free...
+-    But the most interesting part was Pair programming!No Doubts!
+
 
 
 
