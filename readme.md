@@ -1216,6 +1216,27 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    It gets real frustrating sometimes how much overhead [Kuee](https://github.com/TheSherlockHomie) demanded before he merged my branch with his master branch.... but i got to learn so many new things! Really happy!! Nothing good comes for free...
 -    But the most interesting part was Pair programming!No Doubts!
 
+---
+
+### Day 57: October 6, 2020, Tuesday
+
+**Today's Progress :**
+
+-    C++ STL 
+
+**What I learned :**
+
+-    Revised Linked Lists ,Stacks and Queues.
+
+**Thoughts :**
+
+-    Completed 6 Hacktoberfest PR'S (2 Bonus ..Had to do only 4).
+-    ZS process starts tomorrow...i have not applied for it obviously...But my friends have.... Wishing it doesn't turn out like Delloite.
+
+---
+
+
+
 
 
 
