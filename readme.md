@@ -1235,6 +1235,25 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 58: October 7, 2020, Wednesday
+
+**Today's Progress :**
+
+-    Operating Systems CS-162 course
+
+**What I learned :**
+
+-    Scheduling - Types and Comparison.
+
+**Thoughts :**
+
+-    12 Hours round going on of ZS...Hope Sneha and Ashish are able to crack this and proceed to next round.
+-    Scheduling be so easy and obvious...never thought so! Best thing about OS according to me is the fact that it gets so easily related to normal life!
+-    Banker's Algo... Too Much Milk....Its really fun!
+
+---
+
+
 
 
 
