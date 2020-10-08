@@ -1253,6 +1253,20 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 59: October 8, 2020, Thursday
+
+**Today's Progress :**
+
+-    Nxp semiconductors first round.
+-    Revised Mutex and Semaphores.
+
+**Thoughts :**
+
+-    A bad day....I really prepared hard for Nxp but....the test was all related to hardware and electronics....
+-    ZS process next round on 14th...waiting for results... wish my friends are more lucky then me.
+
+---
+
 
 
 
