@@ -1267,6 +1267,21 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 60: October 9, 2020, Friday
+
+**Today's Progress :**
+
+-    Cp-30 Nvidia 1ST round .
+
+**Thoughts :**
+
+-    Good day...really a good one...The test went really well...Just hope i get selected for the second round.
+-    When will ZS results come!!! 
+
+---
+
+
+
 
 
 
