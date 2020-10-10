@@ -1280,6 +1280,25 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 61: October 10, 2020, Saturday
+
+**Today's Progress :**
+
+-    Operating Systems CS-162 course
+
+**What I learned :**
+
+-    Revised Scheduling.
+-    Deadlock 
+
+**Thoughts :**
+
+-    Have completed a good amount of portion in OS.
+-    Hope my hard work pays off...really scared!
+
+---
+
+
 
 
 
