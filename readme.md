@@ -1298,6 +1298,22 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 62: October 11, 2020, Sunday
+
+**Today's Progress :**
+
+-    Participated in [CP-31 Educational Codeforces Round 96](https://codeforces.com/contest/1430)
+
+**What I learned :**
+
+-    BIT manipulation
+
+**Thoughts :**
+
+-    Rating decreased in Codeforces by 4, but had lots of fun...was able to hack solutions of 11 of the contestants..but realized later that i wasn't getting any points for it...SHIT!
+
+---
+
 
 
 
