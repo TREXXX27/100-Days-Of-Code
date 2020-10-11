@@ -1302,11 +1302,11 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Today's Progress :**
 
--    Participated in [CP-31 Educational Codeforces Round 96](https://codeforces.com/contest/1430)
+-    Participated in [CP-31 Educational Codeforces Round 96](https://codeforces.com/contest/1430).
 
 **What I learned :**
 
--    BIT manipulation
+-    BIT manipulation.
 
 **Thoughts :**
 
