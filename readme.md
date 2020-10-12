@@ -1314,6 +1314,29 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 63: October 12, 2020, Monday
+
+**Today's Progress :**
+
+-    Operating Systems CS-162 course
+
+**What I learned :**
+
+-    Revision of all topics learnt.
+-    Basics of Cache and Paging.
+
+**Thoughts :**
+
+-    Neither ZS nor Nvidia results announced yet!
+-    Lots of tension and stress.
+-    GRE exam postponed to Nov 6,2020.
+
+---
+
+
+
+
+
 
 
 
