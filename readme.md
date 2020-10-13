@@ -1333,6 +1333,24 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 64: October 13, 2020, Tuesday
+
+**Today's Progress :**
+
+-    Leetcode Problem Practise.
+
+**What I learned :**
+
+-    Solved [LRU Cache](https://leetcode.com/problems/lru-cache/)
+-    Solved [Interleaving String](https://leetcode.com/problems/interleaving-string/) - using Recursion with memoization.
+
+**Thoughts :**
+
+-    Got selected for Nvidia inteviews .. Hurray!! 6 students from CS batch also have made it to the interviews with me. Will try my best to not lose this oppurtunity.
+-    Sneha got shortlisted for the next round of ZS! Today is really a good day!😍
+
+---
+
 
 
 
