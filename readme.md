@@ -1351,6 +1351,23 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 65: October 14, 2020, Wednesday
+
+**Today's Progress :**
+
+-    Leetcode Problem Practise.
+
+**What I learned :**
+
+-    Revised old problems done on Leetcode by me.
+
+**Thoughts :**
+
+-    Sneha has made it to the last round...So scared for her...Result has not yet been announced...Will come tomorrow...Really wish she gets this one...
+-    Hope more companies come soon ...i don't want to be the only one who remains unemployed..
+
+---
+
 
 
 
