@@ -1368,6 +1368,26 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 66: October 15, 2020, Thursday
+
+**Today's Progress :**
+
+-    Leetcode Problem Practise.
+
+**What I learned :**
+
+-    Solved [Interleaving String](https://leetcode.com/problems/interleaving-string/) using DP and 2-D array.
+-    Solved [Interleaving String](https://leetcode.com/problems/interleaving-string/) using DP and 1-D array.
+-    Solved [Two sum](https://leetcode.com/problems/two-sum/).
+-    Solved [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/).
+-    Solved [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/).
+
+**Thoughts :**
+
+-    A GREAT DAY! Sneha got selected for ZS! FINALLY! 😍🎉✌ Knew you had it in you girl. Totally deserving ...Infact you deserve more...Hope life keeps giving you more and more reasons to smile...
+-    Societe General finally came back...Test scheduled on 17th along with my NVIDIA interviews ..Hope they don't clash together.
+
+---
 
 
 
