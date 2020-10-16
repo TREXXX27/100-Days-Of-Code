@@ -1409,6 +1409,18 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 68: October 18, 2020, Sunday
+
+**Today's Progress :**
+
+-    Cp-32 Soc Gen first round
+
+**Thoughts :**
+
+-    A bad day... the test really went bad, like very bad...was not able to solve even basic apti problems.
+-    When will my day come....only NVIDIA left now.
+
+---
 
 
 
