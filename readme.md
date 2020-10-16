@@ -1389,6 +1389,27 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 67: October 16, 2020, Friday
+
+**Today's Progress :**
+
+-    Leetcode Problem Practise.
+
+**What I learned :**
+
+-    Solved [Add Strings](https://leetcode.com/problems/add-strings/).
+-    Solved [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/).
+-    Solved [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)using DP.
+-    Solved [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)using 2 pointers.
+
+**Thoughts :**
+
+-    Nvidia interview postponed to next week.
+-    Hope i am able to make it into Societe General 2nd round.
+
+---
+
+
 
 
 
