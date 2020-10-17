@@ -1414,14 +1414,15 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Today's Progress :**
 
 -    Cp-32 Soc Gen first round
+-    [CP-33 Codeforces Raif Round 1 ](https://codeforces.com/contest/1428).
 
 **Thoughts :**
 
 -    A bad day... the test really went bad, like very bad...was not able to solve even basic apti problems.
 -    When will my day come....only NVIDIA left now.
+-    Although [CP-33 Codeforces Raif Round 1 ](https://codeforces.com/contest/1428) went well...
 
 ---
-
 
 
 
