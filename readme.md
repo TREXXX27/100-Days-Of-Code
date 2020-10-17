@@ -1409,7 +1409,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 68: October 18, 2020, Sunday
+### Day 68: October 17, 2020, Sunday
 
 **Today's Progress :**
 
@@ -1421,6 +1421,8 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    When will my day come....only NVIDIA left now.
 
 ---
+
+
 
 
 
