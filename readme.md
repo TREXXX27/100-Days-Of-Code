@@ -1409,7 +1409,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 68: October 17, 2020, Sunday
+### Day 68: October 17, 2020, Saturday
 
 **Today's Progress :**
 
@@ -1421,6 +1421,24 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    A bad day... the test really went bad, like very bad...was not able to solve even basic apti problems.
 -    When will my day come....only NVIDIA left now.
 -    Although [CP-33 Codeforces Raif Round 1 ](https://codeforces.com/contest/1428) went well...
+
+---
+
+### Day 69: October 18, 2020, Sunday
+
+**Today's Progress :**
+
+-    [Cp-34 Google Kickstart Round G 2020](https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069) 
+-    Operating systems revision
+
+**What I learned :**
+
+-    Revised OS concepts like address space,threads,process,PCB,TLB..etc.
+
+**Thoughts :**
+
+-    When will they give the date for NVIDIA interview...
+-    Should revise STL before the interviews!
 
 ---
 
