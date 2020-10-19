@@ -1442,6 +1442,29 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 70: October 19, 2020, Monday
+
+**Today's Progress :**
+
+-    C++STL  
+
+**What I learned :**
+
+-    Revisd Trees.
+-    Revised Binary Search Tree.
+-    Revised Heaps.
+-    Revised Graphs.
+-    Revised Hash Maps.
+
+**Thoughts :**
+
+-    Hope Nvidia doesn't run away like other companies.. 🤣
+-    Need to revise algorithms too.
+
+---
+
+
+
 
 
 
