@@ -1463,6 +1463,29 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 71: October 20, 2020, Tuesday
+
+**Today's Progress :**
+
+-    C++STL and Algorithms.
+-    Participated in [CP-34 Codeforces Round #677](https://codeforces.com/contest/1433)
+
+**What I learned :**
+
+-    Revised BFS and DFS.
+-    Revised Bellmans Ford Algorithm.
+-    Revised Dijakstra's Algorithm.
+-    Revised Floyd Warshall ALgorithm.
+-    Revised Kadane's and Floyd's Cycle Algorithm.
+
+**Thoughts :**
+
+-    Although [CP-34 Codeforces Round #677](https://codeforces.com/contest/1433) was not able to increase my rank as much as i wanted because of silly errors in a problem solution which caused lots of penalty.
+-    On the bright side..I was able to hack a solution for which i recieved 100 points! Hurray!
+
+---
+
+
 
 
 
