@@ -18,11 +18,10 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 | No  | Project Title                               |                                Completed On                                 |
 | :-: | ------------------------------------------- | :-------------------------------------------------------------------------: |
-|  1  |             |   |
-
+|  1  |      Library implementation for HEAP in C++       | 5th October, 2020  |
+|  2  |            |   |
 
 ---
-
 ---
 
 ## Log
@@ -1506,6 +1505,31 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    On the bright side..I was able to hack a solution for which i recieved 100 points! Hurray!
 
 ---
+
+### Day 73: October 22, 2020, Thursday
+
+**Today's Progress :**
+
+-    Operating Systems.
+-    Data Stuctures and Algorithms.
+-    Nvidia interview.
+
+**What I learned :**
+
+-    Revised everything.
+-    Revised sorting algorithms.
+-    Understood basics of Demand paging ,reentrant code and other important concepts.
+
+**Thoughts :**
+
+-    HURRAY!! Finally i fot selected in something... NVIDIA... 6 months internship. My hard work paid off... Feeling so relaxed... 🎉🎉🎉
+-    Am so grateful to have so good friends ...really lucky to have you all Kuee, Piyush, Ashish and Sneha.
+-    Can never thank you enough [Kuee](https://github.com/TheSherlockHomie), without you it really was not possible. 
+-    And finally Sneha... Thank you so much once again... Ur support and being there to listen to all my BT's ... U have really become a basic need for my life...❤
+-    Hope i am able to secure an FTE too soon....I really really want to.
+
+---
+
 
 
 
