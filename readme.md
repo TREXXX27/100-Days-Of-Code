@@ -1530,7 +1530,14 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### October 23, 2020, Friday.
 
+-   Taking a break to prepare for my GRE exam.
+-   Will be back after November 6th.
+-   Wish me luck.
+-   Will surely start another project after November 6th. Projects are fun if not done alone!
+
+---
 
 
 
