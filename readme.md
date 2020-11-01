@@ -1489,20 +1489,15 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Today's Progress :**
 
 -    C++STL and Algorithms.
--    Participated in [CP-34 Codeforces Round #677](https://codeforces.com/contest/1433)
+-    Operating Systems
 
 **What I learned :**
 
--    Revised BFS and DFS.
--    Revised Bellmans Ford Algorithm.
--    Revised Dijakstra's Algorithm.
--    Revised Floyd Warshall ALgorithm.
--    Revised Kadane's and Floyd's Cycle Algorithm.
+-    Revised almost everything I have learned so far.
 
 **Thoughts :**
 
--    Although [CP-34 Codeforces Round #677](https://codeforces.com/contest/1433) was not able to increase my rank as much as i wanted because of silly errors in a problem solution which caused lots of penalty.
--    On the bright side..I was able to hack a solution for which i recieved 100 points! Hurray!
+-    Tomorrow is my Nvidia interview. Wish me luck!
 
 ---
 
@@ -1516,7 +1511,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **What I learned :**
 
--    Revised everything.
+-    Revised everything again.
 -    Revised sorting algorithms.
 -    Understood basics of Demand paging ,reentrant code and other important concepts.
 
@@ -1525,8 +1520,8 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    HURRAY!! Finally i fot selected in something... NVIDIA... 6 months internship. My hard work paid off... Feeling so relaxed... 🎉🎉🎉
 -    Am so grateful to have so good friends ...really lucky to have you all Kuee, Piyush, Ashish and Sneha.
 -    Can never thank you enough [Kuee](https://github.com/TheSherlockHomie), without you it really was not possible. 
--    And finally Sneha... Thank you so much once again... Ur support and being there to listen to all my BT's ... U have really become a basic need for my life...❤
--    Hope i am able to secure an FTE too soon....I really really want to.
+-    And finally Sneha... Thank you so much once again... Your support and being there to listen to all my BT's ... You have really become a basic need for my life...❤
+-    Hope I am able to secure an FTE too soon....I really really want to.
 
 ---
 
@@ -1536,6 +1531,15 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Will be back after November 6th.
 -   Wish me luck.
 -   Will surely start another project after November 6th. Projects are fun if not done alone!
+
+---
+
+### November 1, 2020, Sunday.
+
+-   Missing making commits on this log! 😅
+-   Just wanted to update that i managed to get the GOOGLE FOOBAR CHALLENGE.
+-   Have not started it yet but as soon as i do i will tell you all about it.
+-   Will be bcak soon. 
 
 ---
 
