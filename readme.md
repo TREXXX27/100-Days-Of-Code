@@ -1517,7 +1517,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--    HURRAY!! Finally i fot selected in something... NVIDIA... 6 months internship. My hard work paid off... Feeling so relaxed... 🎉🎉🎉
+-    HURRAY!! Finally i got selected in something... NVIDIA... 6 months internship. My hard work paid off... Feeling so relaxed... 🎉🎉🎉
 -    Am so grateful to have so good friends ...really lucky to have you all Kuee, Piyush, Ashish and Sneha.
 -    Can never thank you enough [Kuee](https://github.com/TheSherlockHomie), without you it really was not possible. 
 -    And finally Sneha... Thank you so much once again... Your support and being there to listen to all my BT's ... You have really become a basic need for my life...❤
@@ -1537,9 +1537,9 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 ### November 1, 2020, Sunday.
 
 -   Missing making commits on this log! 😅
--   Just wanted to update that i managed to get the GOOGLE FOOBAR CHALLENGE.
--   Have not started it yet but as soon as i do i will tell you all about it.
--   Will be bcak soon. 
+-   Just wanted to update that I managed to get the GOOGLE FOOBAR CHALLENGE.
+-   Have not started it yet but as soon as I do I will tell you all about it.
+-   Will be back soon. 
 
 ---
 
