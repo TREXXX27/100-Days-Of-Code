@@ -1083,7 +1083,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--    Ashish, Sneha and i have got selected for Dellote next round!
+-    Ashish, Sneha and i have got selected for Delloite next round!
 -    Will surely get myself out in the first round itself...Hope Sneha and Ashish are able to crack this! 
 
 ---
@@ -1540,6 +1540,29 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -   Just wanted to update that I managed to get the GOOGLE FOOBAR CHALLENGE.
 -   Have not started it yet but as soon as I do I will tell you all about it.
 -   Will be back soon. 
+
+---
+
+### Day 74: September 1, 2021, Wednesday.
+
+**Today's Progress :**
+
+-    Setting up my Ubuntu for coding!
+-    Data Stuctures and Algorithms (Python)
+-    Revision
+
+**What I learned :**
+
+-    Solved [Happy Number](https://leetcode.com/problems/happy-number/) 
+-    Solved [Single Number](https://leetcode.com/problems/single-number/)
+-    Solved [Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/).
+-    Solved [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
+**Thoughts :**
+
+-   I AM BACK!
+-   Sorry for being soooooooooooo late! 
+-   Joined Arizona State University for doing my Master's in Computer Science! Was busy in giving exams (GRE and TOEFL) and filling up applications for colleges.
 
 ---
 
