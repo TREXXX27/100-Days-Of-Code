@@ -1555,8 +1555,6 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -    Solved [Happy Number](https://leetcode.com/problems/happy-number/) 
 -    Solved [Single Number](https://leetcode.com/problems/single-number/)
--    Solved [Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/).
--    Solved [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
 **Thoughts :**
 
@@ -1566,6 +1564,21 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 75: September 2, 2021, Thursday.
+
+**Today's Progress :**
+
+-    Data Stuctures and Algorithms (Python)
+-    Revision
+
+**What I learned :**
+
+-    Solved [Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/).
+-    Solved [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
+**THoughts :**
+
+-    Would be starting my on campus job soon. Hope I am able to continue this even after that!
 
 
 
