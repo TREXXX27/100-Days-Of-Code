@@ -1576,11 +1576,18 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    Solved [Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/).
 -    Solved [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
-**THoughts :**
+**Thoughts :**
 
 -    Would be starting my on campus job soon. Hope I am able to continue this even after that!
 
+---
 
+### September 3, 2021, Friday.
+
+-    Went to the Sun Devil Stadium to watch ASU vs Southern Utah match! ASU won!! 
+-    Really tired. Won't be able to code today! 😅
+
+---
 
 
 
