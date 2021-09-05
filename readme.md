@@ -1589,6 +1589,29 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 76: September 4, 2021, Saturday.
+
+**Today's Progress :**
+
+-    Python Revision
+
+**What I learned :**
+
+-    numpy library.
+        -    [numpy.reshape](https://numpy.org/doc/stable/reference/generated/numpy.reshape.html)
+        -    [numpy.swapaxes](https://numpy.org/doc/stable/reference/generated/numpy.swapaxes.html)
+        -    [numpy.arange](https://numpy.org/doc/stable/reference/generated/numpy.arange.html)
+        -    And many more..
+
+**Thoughts :**
+
+-    Already got projects in two of my three subjects this semester!
+-    Won't be able to post details of the project here as its classified!
+
+---
+
+
+
 
 
 
