@@ -1610,6 +1610,16 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### September 5, 2021, Sunday.
+
+-    Went to the Ikea to get my bed frame and stuff. 
+-    Had to assemble the whole bed myself! Hands paining like anything.
+-    Only able to read stuff..No coding again today. SHIT!
+
+---
+
+
+
 
 
 
