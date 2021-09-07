@@ -1618,6 +1618,25 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 77: September 6, 2021, Monday.
+
+**Today's Progress :**
+
+-    Python Revision
+
+**What I learned :**
+
+-    Solved Slicing 2d array into smaller 2d arrays.
+-    Cube root in Python 3.0 for negative numbers might generate errors if done using **pow** function.
+
+**Thoughts :**
+
+-    Reading about Color moments and Extended Local BInary Patterns for my project!
+-    Need to brush up a lot of stuff!
+
+---
+
+
 
 
 
