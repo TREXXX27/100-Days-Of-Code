@@ -1,4 +1,4 @@
-# 100 Days of Code: Log
+        # 100 Days of Code: Log
 
 **Target:** _To code for at least an hour every day for the next 100 days._
 
@@ -1631,8 +1631,25 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--    Reading about Color moments and Extended Local BInary Patterns for my project!
+-    Reading about Color moments and Extended Local Binary Patterns for my project!
 -    Need to brush up a lot of stuff!
+
+---
+
+### Day 78: September 7, 2021, Tuesday.
+
+**Today's Progress :**
+
+-    Python Revision
+-    College Project Phase 1
+
+**What I learned :**
+
+-    Extracting color moment features for images.
+
+**Thoughts :**
+
+-    Project Phase 1 submission on Thursday next week! Scared!
 
 ---
 
