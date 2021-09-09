@@ -19,7 +19,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 | No  | Project Title                               |                                Completed On                                 |
 | :-: | ------------------------------------------- | :-------------------------------------------------------------------------: |
 |  1  |      Library implementation for HEAP in C++       | 5th October, 2020  |
-|  2  |            |   |
+|  2  |      Multimedia and Web Databases College Project Phase-1      |   |
 
 ---
 ---
@@ -1650,6 +1650,23 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts :**
 
 -    Project Phase 1 submission on Thursday next week! Scared!
+
+---
+
+### Day 79: September 8, 2021, Wednesday.
+
+**Today's Progress :**
+
+-    Python Revision
+-    College Project Phase 1
+
+**What I learned :**
+
+-    Extracting local binary pattern features for images.
+
+**Thoughts :**
+
+-    Wake up -> Read Research paper -> Code -> Sleep.
 
 ---
 
