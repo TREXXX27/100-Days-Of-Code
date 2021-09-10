@@ -1650,6 +1650,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts :**
 
 -    Project Phase 1 submission on Thursday next week! Scared!
+-    First day of my on campus job at USA! Got lots of free food! But really drained me out :-(
 
 ---
 
@@ -1670,6 +1671,22 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 80: September 9, 2021, Thursday.
+
+**Today's Progress :**
+
+-    Python Revision
+-    College Project Phase 1
+
+**What I learned :**
+
+-    Histogram of Oriented Gradients!
+
+**Thoughts :**
+
+-    Only 4 hour shift of my on campus job on Thursday's. Relatively chill.
+
+---
 
 
 
