@@ -1705,7 +1705,25 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 82: September 11, 2021, Saturday.
 
+**Today's Progress :**
+
+-    Python Revision
+-    College Project Phase 1
+
+**What I learned :**
+
+-    Different types of Distance Functions.
+        -       Manhattan Distances.
+        -       Euclidean Distances.
+        -       Cosine Similarity.
+
+**Thoughts :**
+
+-    Its really difficult! So many features! So many distance measures! Confused!
+
+---
 
 
 
