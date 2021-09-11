@@ -1688,6 +1688,25 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 81: September 10, 2021, Friday.
+
+**Today's Progress :**
+
+-    Python Revision
+-    College Project Phase 1
+
+**What I learned :**
+
+-    Extracting HOG features from images.
+
+**Thoughts :**
+
+-    Project submission next Thursday!!
+
+---
+
+
+
 
 
 
