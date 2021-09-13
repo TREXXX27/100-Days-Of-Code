@@ -1715,13 +1715,33 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **What I learned :**
 
 -    Different types of Distance Functions.
-        -       Manhattan Distances.
-        -       Euclidean Distances.
+        -       Manhattan Distance.
+        -       Euclidean Distance.
         -       Cosine Similarity.
 
 **Thoughts :**
 
--    ! So many features! So many distance measures! Confused!
+-    So many features! So many distance measures! Confused!
+
+---
+
+### Day 83: September 12, 2021, Sunday.
+
+**Today's Progress :**
+
+-    Python Revision
+-    College Project Phase 1
+
+**What I learned :**
+
+-    Different types of Distance Functions.
+        -       Minkowski Distance.
+        -       K-L Divergence.
+        -       Chi-Squared Distance.
+
+**Thoughts :**
+
+-    More and more distances..
 
 ---
 
