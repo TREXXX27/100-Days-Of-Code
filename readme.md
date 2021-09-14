@@ -1745,6 +1745,25 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 84: September 13, 2021, Tuesday.
+
+**Today's Progress :**
+
+-    Python Revision
+-    College Project Phase 1
+
+**What I learned :**
+
+-    Finding similar images using image features and distance functions!
+
+**Thoughts :**
+
+-    I need an Anti-Bug Spray!
+-    JupyterLab vs Jupyter Notebook?
+
+---
+
+
 
 
 
