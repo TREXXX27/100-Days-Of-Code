@@ -1763,6 +1763,18 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 85: September 14, 2021, Wednesday.
+
+**Today's Progress :**
+
+-    Python Revision
+-    College Project Phase 1
+
+**Thoughts :**
+
+-    3 days left!
+
+---
 
 
 
