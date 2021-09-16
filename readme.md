@@ -1745,7 +1745,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 84: September 13, 2021, Tuesday.
+### Day 84: September 13, 2021, Monday.
 
 **Today's Progress :**
 
@@ -1763,7 +1763,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-### Day 85: September 14, 2021, Wednesday.
+### Day 85: September 14, 2021, Tuesday.
 
 **Today's Progress :**
 
@@ -1772,9 +1772,29 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--    3 days left!
+-    2 days left!
 
 ---
+
+### Day 86: September 15, 2021, Wednesday.
+
+**Today's Progress :**
+
+-    Python Revision
+-    College Project Phase 1
+
+**What I learned :**
+
+-    Z score 
+
+**Thoughts :**
+
+-    Only Euclidean distance seams to be giving good results. NO idea why...
+-    1 day left.
+
+
+---
+
 
 
 
