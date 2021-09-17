@@ -19,7 +19,8 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 | No  | Project Title                               |                                Completed On                                 |
 | :-: | ------------------------------------------- | :-------------------------------------------------------------------------: |
 |  1  |      Library implementation for HEAP in C++       | 5th October, 2020  |
-|  2  |      Multimedia and Web Databases College Project Phase-1      |   |
+|  2  |      Multimedia and Web Databases College Project Phase-1      | 16th September, 2021  |
+|  3  |      CSE 535 Mobile Computing College Project- Android application that collects COVID-19 related symptoms and stores them in a database in the smartphone. Presents user options to measure Heart rate and Respiratory rate.       |  |
 
 ---
 ---
@@ -1805,6 +1806,22 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 -    Submitted my project.
 -    Learned a lot of new things! Hurray!
+
+---
+
+### Day 88: September 17, 2021, Friday.
+
+**Today's Progress :**
+
+-    CSE 535 Mobile Computing Project
+
+**What I learned :**
+
+-    Android App UI
+
+**Thoughts :**
+
+-    Back to developing Mobile Apps!
 
 ---
 
