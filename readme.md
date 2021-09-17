@@ -1792,8 +1792,22 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    Only Euclidean distance seams to be giving good results. NO idea why...
 -    1 day left.
 
+---
+
+### Day 87: September 16, 2021, Thursday.
+
+**Today's Progress :**
+
+-    Python Revision
+-    College Project Phase 1
+
+**Thoughts :**
+
+-    Submitted my project.
+-    Learned a lot of new things! Hurray!
 
 ---
+
 
 
 
