@@ -1825,6 +1825,26 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 89: September 18, 2021, Saturday.
+
+**Today's Progress :**
+
+-    CSE 535 Mobile Computing Project
+
+**What I learned :**
+
+-    setOnClickListener()
+-    Intent
+-    Toast
+
+
+**Thoughts :**
+
+-    Front page made for my COVIprotect app.
+
+---
+
+
 
 
 
