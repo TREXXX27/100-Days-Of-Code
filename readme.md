@@ -1844,6 +1844,24 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 90: September 19, 2021, Sunday.
+
+**Today's Progress :**
+
+-    CSE 535 Mobile Computing Project
+
+**What I learned :**
+
+-    Rating Bar.
+-    Spinner
+
+
+**Thoughts :**
+
+-    Symptoms Logging Activity page made for my COVIprotect app.
+
+---
+
 
 
 
