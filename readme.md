@@ -1862,6 +1862,27 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 91: September 20, 2021, Monday.
+
+**Today's Progress :**
+
+-    CSE 535 Mobile Computing Project
+
+**What I learned :**
+
+-    android.database.Cursor;
+-    android.database.sqlite.SQLiteDatabase;
+-    android.database.sqlite.SQLiteException;
+-    android.os.Environment
+-    android.util.Log
+
+
+**Thoughts :**
+
+-    Working on Database Handler to store the data in a SQL database.
+
+---
+
 
 
 
