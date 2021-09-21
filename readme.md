@@ -1884,6 +1884,30 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 ---
 
 
+### Day 92: September 21, 2021, Tuesday.
+
+**Today's Progress :**
+
+-    CSE 535 Mobile Computing Project
+
+**What I learned :**
+
+-    opencv.videoio.VideoCapture
+-    org.opencv.core.Core
+-    org.opencv.core.Mat
+
+**Thoughts :**
+
+-    Integrating Camera Activity to for Heart Rate measurement.
+
+---
+
+
+
+
+
+
+
 
 
 
