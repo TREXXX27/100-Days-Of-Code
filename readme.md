@@ -1883,7 +1883,6 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-
 ### Day 92: September 21, 2021, Tuesday.
 
 **Today's Progress :**
@@ -1899,6 +1898,19 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts :**
 
 -    Integrating Camera Activity to for Heart Rate measurement.
+
+---
+
+
+### Day 93: September 22, 2021, Wednesday.
+
+**Today's Progress :**
+
+-    CSE 535 Mobile Computing Project
+
+**Thoughts :**
+
+-    Writing Algorithms (Simple Moving Average, Count Zero Threshold, etc.) useful for measuring Heart Rate from frames of video.
 
 ---
 
