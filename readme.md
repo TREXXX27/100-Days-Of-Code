@@ -1901,7 +1901,6 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
-
 ### Day 93: September 22, 2021, Wednesday.
 
 **Today's Progress :**
@@ -1911,6 +1910,24 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts :**
 
 -    Writing Algorithms (Simple Moving Average, Count Zero Threshold, etc.) useful for measuring Heart Rate from frames of video.
+
+---
+
+### Day 94: September 23, 2021, Thursday.
+
+**Today's Progress :**
+
+-    CSE 535 Mobile Computing Project
+
+**What I learned :**
+
+-    android.hardware.Sensor
+-    android.app.Service
+
+**Thoughts :**
+
+-    Measuring Respiratory Rate using mobile sensors.
+-    What am I even doing? And How Am I doing? 
 
 ---
 
