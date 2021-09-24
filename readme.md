@@ -1931,40 +1931,20 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 95: September 24, 2021, Friday.
 
+**Today's Progress :**
 
+-    CSE 535 Mobile Computing Project
 
+**What I learned :**
 
+-    Converting video to different formats using Java libraries. 
 
+**Thoughts :**
 
+-    Heart Rate Activity is all thats left.
+-    Integrated different parts of code today. The result -> BUGSSSSSSSSSSSSSSS. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
