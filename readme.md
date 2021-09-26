@@ -1948,3 +1948,18 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 96: September 25, 2021, Saturday.
+
+**Today's Progress :**
+
+-    CSE 535 Mobile Computing Project
+
+**Thoughts :**
+
+-    Fixed bugs all day.
+-    App not running ..Submission Tomorrow. :-( 
+
+---
+
+
+
