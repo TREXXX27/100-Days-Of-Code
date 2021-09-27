@@ -1962,4 +1962,24 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 ---
 
 
+### Day 97: September 26, 2021, Sunday.
+
+**Today's Progress :**
+
+-    CSE 535 Mobile Computing Project
+
+**What I learned :**
+
+-    One should not wait for the last moment to submit the project.
+
+**Thoughts :**
+
+-    Was able to run the app successfully.
+-    Changed my app name from Health-Checker to COVIprotect 30 mins before submission and the app crashed due to conflict in folder paths.
+-    Gradle files got corrupted and was not able to sync no matter how many times I tried.
+-    Had my app functioning video ready but was not able to submit the .apk file as I was not able to even build my code. 
+-    Submitted my project without the .apk file and that too 10 mins late.... Wish I had not waited for the last minute.
+
+---
+
 
