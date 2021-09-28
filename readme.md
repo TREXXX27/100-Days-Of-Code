@@ -1982,4 +1982,11 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### September 27, 2021, Monday.
+
+-    Taking Break. Last few days have been really hectic.
+
+
+---
+
 
