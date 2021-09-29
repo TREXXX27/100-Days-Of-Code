@@ -1987,6 +1987,10 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 -    Taking Break. Last few days have been really hectic.
 
 
+### September 28, 2021, Tuesday.
+
+-    Really tired today. 6 hours job really strains me out.
+
 ---
 
 
