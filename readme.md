@@ -6,7 +6,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 | Start Date        | End Date |
 | ----------------- | -------- |
-| August 07, 2020   | ?        |
+| August 07, 2020   | December 15, 2021 (Not really) |
 
 ## Goals
 
@@ -20,7 +20,9 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 | :-: | ------------------------------------------- | :-------------------------------------------------------------------------: |
 |  1  |      Library implementation for HEAP in C++       | 5th October, 2020  |
 |  2  |      Multimedia and Web Databases College Project Phase-1      | 16th September, 2021  |
-|  3  |      CSE 535 Mobile Computing College Project- Android application that collects COVID-19 related symptoms and stores them in a database in the smartphone. Presents user options to measure Heart rate and Respiratory rate.       |  |
+|  3  |      CSE 535 Mobile Computing College Project- Android application that collects COVID-19 related symptoms and stores them in a database in the smartphone. Presents user options to measure Heart rate and Respiratory rate.       | 26th September, 2021 |
+|  4  |      Multimedia and Web Databases College Project Phase-2      | 24th October, 2021  |
+|  5  |      Multimedia and Web Databases College Project Phase-3      | 28th November, 2021  |
 
 ---
 ---
@@ -1993,4 +1995,29 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 ---
 
+### Day 98 - 100+ : 
 
+**Progress :**
+
+-    CSE 515 PHase 2 - Phase 3
+
+**What I learned :**
+
+-    ASCOS++
+-    Personalised Pagerank
+-    Latent Semantics
+-    Classifiers
+        -    Decision Trees
+        -    SVM
+        -    PPR based
+-    LSH (Locality- Sensitive Hashing)
+-    VA Files
+
+**Thoughts :**
+
+-    Was really busy and so was not able to log in my progress.
+-    But I did code almost everyday and completed a project too in the last two months.
+-    End sems are over now for Sem 1 and I will be starting a new repo to log in my progress during the holidays.
+-    Thank you everyone ! 
+
+---
