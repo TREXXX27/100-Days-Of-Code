@@ -1052,7 +1052,6 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--    Really Hope Sneha gets selected in Delloite.
 -    Why do companies take so much time in announcing results!!!🙄
 
 ---
@@ -1086,8 +1085,8 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--    Ashish, Sneha and i have got selected for Delloite next round!
--    Will surely get myself out in the first round itself...Hope Sneha and Ashish are able to crack this! 
+-    Ashish and i have got selected for Delloite next round!
+-    Will surely get myself out in the first round itself...Hope Ashish is able to crack this! 
 
 ---
 
@@ -1105,8 +1104,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts :**
 
 -    50th Day .....still a really bad day.
--    Both Sneha and Ashish didn't get selected for Delloite..i really wished they did....No worries ! I believe in them!
--    Sneha made it to the final round ...everything went well and she had a real good final interview but....Hope i was with her today.... She really deseved this atleast..😢😢
+-    Ashish didn't get selected for Delloite..i really wished they did....No worries ! I believe in them!
 
 ---
 
@@ -1249,7 +1247,7 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--    12 Hours round going on of ZS...Hope Sneha and Ashish are able to crack this and proceed to next round.
+-    12 Hours round going on of ZS...Hope Ashish is able to crack this and proceed to next round.
 -    Scheduling be so easy and obvious...never thought so! Best thing about OS according to me is the fact that it gets so easily related to normal life!
 -    Banker's Algo... Too Much Milk....Its really fun!
 
@@ -1349,7 +1347,6 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts :**
 
 -    Got selected for Nvidia inteviews .. Hurray!! 6 students from CS batch also have made it to the interviews with me. Will try my best to not lose this oppurtunity.
--    Sneha got shortlisted for the next round of ZS! Today is really a good day!😍
 
 ---
 
@@ -1365,7 +1362,6 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--    Sneha has made it to the last round...So scared for her...Result has not yet been announced...Will come tomorrow...Really wish she gets this one...
 -    Hope more companies come soon ...i don't want to be the only one who remains unemployed..
 
 ---
@@ -1386,7 +1382,6 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 
 **Thoughts :**
 
--    A GREAT DAY! Sneha got selected for ZS! FINALLY! 😍🎉✌ Knew you had it in you girl. Totally deserving ...Infact you deserve more...Hope life keeps giving you more and more reasons to smile...
 -    Societe General finally came back...Test scheduled on 17th along with my NVIDIA interviews ..Hope they don't clash together.
 
 ---
@@ -1521,9 +1516,8 @@ More details about the challenge can be found at [100daysofcode.com](http://100d
 **Thoughts :**
 
 -    HURRAY!! Finally i got selected in something... NVIDIA... 6 months internship. My hard work paid off... Feeling so relaxed... 🎉🎉🎉
--    Am so grateful to have so good friends ...really lucky to have you all Kuee, Piyush, Ashish and Sneha.
+-    Am so grateful to have so good friends ...really lucky to have you all Kuee, Piyush and Ashish
 -    Can never thank you enough [Kuee](https://github.com/TheSherlockHomie), without you it really was not possible. 
--    And finally Sneha... Thank you so much once again... Your support and being there to listen to all my BT's ... You have really become a basic need for my life...❤
 -    Hope I am able to secure an FTE too soon....I really really want to.
 
 ---
